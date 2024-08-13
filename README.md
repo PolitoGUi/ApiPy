@@ -1,4 +1,4 @@
-Claro! Aqui está um modelo básico de README.md para o seu projeto:
+ Aqui está um modelo básico de README.md para o seu projeto:
 
 ```markdown
 # API de Sensores com FastAPI e PostgreSQL
